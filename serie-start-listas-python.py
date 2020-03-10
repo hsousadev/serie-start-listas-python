@@ -1,4 +1,4 @@
-#START A LISTAS EM PYTHON
+#START LISTAS EM PYTHON
 
 listaTeste = ['SP', 'MG', 'RJ', 'DF', 'SC', 'RS', 'RN', 'SE'] #criando lista
 
